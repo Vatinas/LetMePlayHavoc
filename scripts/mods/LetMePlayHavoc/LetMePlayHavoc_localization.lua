@@ -1,6 +1,6 @@
 return {
 	mod_name = {
-		en = "Let me play havoc",
+		en = "Let Me Play Havoc",
 		["zh-cn"] = "为什么不让我玩浩劫？",
 	},
 	mod_description = {
