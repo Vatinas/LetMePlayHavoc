@@ -33,6 +33,6 @@ return {
 	},
 	havoc_locked = {
 		en = "Unfinished Havoc round",
-		-- Needs loc
+		["zh-cn"] = "有未完成的浩劫任务",
 	},
 }
