@@ -27,8 +27,12 @@ return {
 		en = "Havoc not unlocked",
 		["zh-cn"] = "前置大漩涡未完成",
 	},
-	havoc_reward_not_claimed  = {
+	havoc_reward_not_claimed = {
 		en = "Unclaimed Havoc reward",
 		["zh-cn"] = "上周浩劫奖励未领取",
+	},
+	havoc_locked = {
+		en = "Unfinished Havoc round",
+		-- Needs loc
 	},
 }
